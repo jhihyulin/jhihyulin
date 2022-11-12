@@ -2326,6 +2326,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">add-Traditional-Chinese-TW</span></div>
                                     <div class="commit">
+                                        <div class="sha">#3fc63a2</div>
+                                        <div class="message">TRY fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jhihyulin/cloudstream</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-Traditional-Chinese-TW</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9f5d2ab</div>
+                                        <div class="message">TRY fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jhihyulin/cloudstream</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-Traditional-Chinese-TW</span></div>
+                                    <div class="commit">
                                         <div class="sha">#3a6b429</div>
                                         <div class="message">wait for fix bug and Update README.md</div>
                                     </div>
@@ -2369,46 +2409,6 @@
                                         I don't know how to fix this bug, but now I can go into the application and skip the language setting and it will display normally, so the problem should be in the language code in
                                         <code>app\src\main\java\com\lagradost\cloudstream3\ui\settings\SettingsGeneral.kt</code>
                                         line 79, or in the other settings of the language setting file?
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jhihyulin/cloudstream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-Traditional-Chinese-TW</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0a8cb1d</div>
-                                        <div class="message">TRY to fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jhihyulin/cloudstream</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-Traditional-Chinese-TW</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#809693e</div>
-                                        <div class="message">fox path zh-rTW</div>
                                     </div>
                                 </div>
                             </section>
@@ -2961,7 +2961,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2022, 15:39:58 (timezone Asia/Taipei) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Nov 2022, 16:47:09 (timezone Asia/Taipei) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
