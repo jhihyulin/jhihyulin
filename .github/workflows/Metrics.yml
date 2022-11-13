@@ -69,7 +69,3 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_types: commit
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: mastered
-          plugin_topics_sort: activity
