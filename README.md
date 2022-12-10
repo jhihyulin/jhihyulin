@@ -1,4 +1,4 @@
-![Profile Views Counter](https://komarev.com/ghpvc/?username=jhihyulin&color=brightgreen)
+![Profile Views Counter](https://komarev.com/ghpvc/?username=jhihyulin&color=brightgreen&style=for-the-badge)
 
 ![](/profile-summary-card-output/github_dark/0-profile-details.svg)
 
