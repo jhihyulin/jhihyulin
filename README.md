@@ -1,9 +1,11 @@
-![Profile Views Counter](https://komarev.com/ghpvc/?username=jhihyulin&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=jhihyulin&color=brightgreen&style=for-the-badge)
+![](https://wakatime.com/badge/user/2d272511-3d9b-476f-bb65-06e47ab8dffb.svg?style=for-the-badge)
 
 ![](/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![](/profile-summary-card-output/github_dark/1-repos-per-language.svg)![](/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://github-readme-stats.vercel.app/api?username=jhihyulin&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhihyulin&layout=compact&theme=transparent&hide_border=true)
 
-![](/profile-summary-card-output/github_dark/3-stats.svg)![](/profile-summary-card-output/github_dark/4-productive-time.svg)
+![](https://github-readme-streak-stats.herokuapp.com?user=jhihyulin&theme=transparent&hide_border=true)
 
-![Metrics Graph](/github-metrics.svg)
+![](/github-metrics.svg)
