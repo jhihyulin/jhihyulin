@@ -6,6 +6,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=jhihyulin&show_icons=true&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhihyulin&layout=compact&theme=transparent&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=jhihyulin&layout=compact&theme=transparent&hide_border=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com?user=jhihyulin&theme=transparent&hide_border=true)
 
 ![](/github-metrics.svg)
