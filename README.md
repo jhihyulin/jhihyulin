@@ -4,10 +4,10 @@
 <p align="center">
     <img src="/profile-summary-card-output/transparent/0-profile-details.svg" />
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jhihyulin&show_icons=true&theme=transparent&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhihyulin&layout=compact&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jhihyulin&show_icons=true&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhihyulin&layout=compact&theme=transparent&hide_border=true" />
     </ p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhihyulin&layout=compact&theme=transparent&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jhihyulin&theme=transparent&hide_border=true" />
-<img src="/github-metrics.svg" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhihyulin&layout=compact&theme=transparent&hide_border=true&range=all_time" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jhihyulin&theme=transparent&hide_border=true" />
+    <img src="/github-metrics.svg" />
 </ p>
