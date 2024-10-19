@@ -326,8 +326,8 @@
                             <rect mask="url(#issues-bar)" x="15.669515669515668" y="0" width="0" height="8" fill="#c9d1d9"/>
                             <rect mask="url(#issues-bar)" x="15.669515669515668" y="0" width="30.08547008547009" height="8" fill="#da3633"/>
                             <rect mask="url(#issues-bar)" x="45.75498575498575" y="0" width="48.888888888888886" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="94.64387464387464" y="0" width="91.5099715099715" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="186.15384615384613" y="0" width="33.84615384615385" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="94.64387464387464" y="0" width="90.88319088319088" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="185.52706552706553" y="0" width="34.47293447293447" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -379,7 +379,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">54 <small>merged</small></span>
+                                <span class="no-wrap">55 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2834,7 +2834,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 742k out of 146m users</span>
+                                    <span class="gh">ranked 742k out of 147m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">50</div>
                                     </div>
@@ -3045,7 +3045,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 867k out of 146m users</span>
+                                    <span class="gh">ranked 867k out of 147m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -3240,7 +3240,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 221m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3337,7 +3337,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2024, 09:56:10 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 11:00:22 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
