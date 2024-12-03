@@ -1,7 +1,5 @@
 # Hi there 👋
 
----
-
 ![](https://komarev.com/ghpvc/?username=jhihyulin&color=brightgreen&style=for-the-badge) ![](https://wakatime.com/badge/user/2d272511-3d9b-476f-bb65-06e47ab8dffb.svg?style=for-the-badge)
 
 I'm jhihyu / hack-a-pizza / saget, a software hobbyist and a Physics student at National Dong Hwa University, Taiwan.
