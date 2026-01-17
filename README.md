@@ -10,7 +10,7 @@ Programming languages:
 
 Frameworks:
 
-![](https://skillicons.dev/icons?i=fastapi,flutter,react,nextjs,tailwind)
+![](https://skillicons.dev/icons?i=flutter,react,vite,nextjs,tailwind,fastapi)
 <!--
 Tools:
 
